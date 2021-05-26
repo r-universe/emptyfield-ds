@@ -12,6 +12,12 @@
     "from": "shunyata"
   },
   {
+    "package": "emptyfield",
+    "url": "https://github.com/emptyfield-ds/emptyfield",
+    "via": ["rrr.workshop"],
+    "from": "rrr.workshop"
+  },
+  {
     "package": "rscloud",
     "url": "https://github.com/rstudio/rscloud",
     "via": ["shunyata"],
