@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "emptyfield"
+  },
+  {
+    "package": "opensky"
+  },
+  {
+    "package": "shunyata"
+  },
+  {
+    "package": "rrr.workshop"
+  }
+]

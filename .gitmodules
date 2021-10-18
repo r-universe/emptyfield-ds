@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/emptyfield-ds/universe
 	shallow = true
 	branch = HEAD
+[submodule "emptyfield"]
+	path = emptyfield
+	url = https://github.com/emptyfield-ds/emptyfield
+	shallow = true
+	registered = true
+[submodule "opensky"]
+	path = opensky
+	url = https://github.com/emptyfield-ds/opensky
+	shallow = true
+	registered = true
+[submodule "shunyata"]
+	path = shunyata
+	url = https://github.com/emptyfield-ds/shunyata
+	shallow = true
+	registered = true
+[submodule "rrr.workshop"]
+	path = rrr.workshop
+	url = https://github.com/emptyfield-ds/rrr.workshop
+	shallow = true
+	registered = true
