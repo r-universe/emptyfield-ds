@@ -23,3 +23,9 @@
 	url = https://github.com/emptyfield-ds/rrr.workshop
 	shallow = true
 	registered = true
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/malcolmbarrett/testthat
+	shallow = true
+	branch = snapshot_file_path
+	registered = false

@@ -1,0 +1,9 @@
+[
+  {
+    "package": "testthat",
+    "url": "https://github.com/malcolmbarrett/testthat",
+    "via": ["opensky"],
+    "branch": "snapshot_file_path",
+    "from": "opensky"
+  }
+]
