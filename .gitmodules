@@ -28,6 +28,16 @@
 	url = https://github.com/rstudio/chromote
 	shallow = true
 	registered = false
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+	shallow = true
+	registered = false
+[submodule "pak"]
+	path = pak
+	url = https://github.com/r-lib/pak
+	shallow = true
+	registered = false
 [submodule "rscloud"]
 	path = rscloud
 	url = https://github.com/rstudio/rscloud
