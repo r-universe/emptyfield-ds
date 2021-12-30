@@ -23,6 +23,11 @@
 	url = https://github.com/emptyfield-ds/rrr.workshop
 	shallow = true
 	registered = true
+[submodule "rpkg.workshop"]
+	path = rpkg.workshop
+	url = https://github.com/emptyfield-ds/rpkg.workshop
+	shallow = true
+	registered = true
 [submodule "chromote"]
 	path = chromote
 	url = https://github.com/rstudio/chromote

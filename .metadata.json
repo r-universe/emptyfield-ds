@@ -10,5 +10,8 @@
   },
   {
     "package": "rrr.workshop"
+  },
+  {
+    "package": "rpkg.workshop"
   }
 ]
