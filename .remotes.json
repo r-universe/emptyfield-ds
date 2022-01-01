@@ -12,12 +12,6 @@
     "from": "shunyata"
   },
   {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
-    "via": ["emptyfield", "pak"],
-    "from": "emptyfield"
-  },
-  {
     "package": "emptyfield",
     "url": "https://github.com/emptyfield-ds/emptyfield",
     "via": ["rpkg.workshop"],
@@ -28,12 +22,6 @@
     "url": "https://github.com/emptyfield-ds/emptyfield",
     "via": ["rrr.workshop"],
     "from": "rrr.workshop"
-  },
-  {
-    "package": "pak",
-    "url": "https://github.com/r-lib/pak",
-    "via": ["emptyfield"],
-    "from": "emptyfield"
   },
   {
     "package": "pak",
