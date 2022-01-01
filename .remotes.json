@@ -24,18 +24,6 @@
     "from": "rrr.workshop"
   },
   {
-    "package": "pak",
-    "url": "https://github.com/r-lib/pak",
-    "via": ["rpkg.workshop", "emptyfield"],
-    "from": "rpkg.workshop"
-  },
-  {
-    "package": "pkgdepends",
-    "url": "https://github.com/r-lib/pkgdepends",
-    "via": ["rpkg.workshop", "emptyfield", "pak"],
-    "from": "rpkg.workshop"
-  },
-  {
     "package": "rscloud",
     "url": "https://github.com/rstudio/rscloud",
     "via": ["shunyata"],
