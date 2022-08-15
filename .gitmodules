@@ -30,7 +30,7 @@
 	registered = true
 [submodule "renderthis"]
 	path = renderthis
-	url = https://github.com/jhelvy/xaringanBuilder
+	url = https://github.com/jhelvy/renderthis
 	shallow = true
 	registered = false
 [submodule "rscloud"]
