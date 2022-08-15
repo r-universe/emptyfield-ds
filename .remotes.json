@@ -1,17 +1,5 @@
 [
   {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
-    "via": ["shunyata", "xaringanBuilder"],
-    "from": "shunyata"
-  },
-  {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
-    "via": ["shunyata", "xaringanBuilder", "webshot2"],
-    "from": "shunyata"
-  },
-  {
     "package": "emptyfield",
     "url": "https://github.com/emptyfield-ds/emptyfield",
     "via": ["rpkg.workshop"],
@@ -22,6 +10,12 @@
     "url": "https://github.com/emptyfield-ds/emptyfield",
     "via": ["rrr.workshop"],
     "from": "rrr.workshop"
+  },
+  {
+    "package": "renderthis",
+    "url": "https://github.com/jhelvy/xaringanBuilder",
+    "via": ["shunyata"],
+    "from": "shunyata"
   },
   {
     "package": "rscloud",
@@ -35,23 +29,5 @@
     "via": ["opensky"],
     "branch": "snapshot_file_path",
     "from": "opensky"
-  },
-  {
-    "package": "webshot2",
-    "url": "https://github.com/rstudio/webshot2",
-    "via": ["shunyata", "xaringanBuilder"],
-    "from": "shunyata"
-  },
-  {
-    "package": "xaringanBuilder",
-    "url": "https://github.com/jhelvy/xaringanBuilder",
-    "via": ["shunyata"],
-    "from": "shunyata"
-  },
-  {
-    "package": "xaringanExtra",
-    "url": "https://github.com/gadenbuie/xaringanExtra",
-    "via": ["shunyata", "xaringanBuilder"],
-    "from": "shunyata"
   }
 ]
