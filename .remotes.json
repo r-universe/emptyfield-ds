@@ -2,6 +2,12 @@
   {
     "package": "emptyfield",
     "url": "https://github.com/emptyfield-ds/emptyfield",
+    "via": ["quarto.workshop"],
+    "from": "quarto.workshop"
+  },
+  {
+    "package": "emptyfield",
+    "url": "https://github.com/emptyfield-ds/emptyfield",
     "via": ["rpkg.workshop"],
     "from": "rpkg.workshop"
   },
