@@ -28,6 +28,11 @@
 	url = https://github.com/emptyfield-ds/rpkg.workshop
 	shallow = true
 	registered = true
+[submodule "quarto.workshop"]
+	path = quarto.workshop
+	url = https://github.com/emptyfield-ds/quarto.workshop
+	shallow = true
+	registered = true
 [submodule "renderthis"]
 	path = renderthis
 	url = https://github.com/jhelvy/renderthis
