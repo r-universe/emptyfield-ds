@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/emptyfield-ds/universe
+	url = https://github.com/emptyfield-ds/emptyfield-ds.r-universe.dev
 	branch = HEAD
 [submodule "emptyfield"]
 	path = emptyfield
