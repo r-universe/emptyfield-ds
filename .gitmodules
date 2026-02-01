@@ -11,25 +11,12 @@
 [submodule "quarto.workshop"]
 	path = quarto.workshop
 	url = https://github.com/emptyfield-ds/quarto.workshop
-[submodule "renderthis"]
-	path = renderthis
-	url = https://github.com/jhelvy/renderthis
-	registered = false
 [submodule "rpkg.workshop"]
 	path = rpkg.workshop
 	url = https://github.com/emptyfield-ds/rpkg.workshop
 [submodule "rrr.workshop"]
 	path = rrr.workshop
 	url = https://github.com/emptyfield-ds/rrr.workshop
-[submodule "rscloud"]
-	path = rscloud
-	url = https://github.com/rstudio/rscloud
-	registered = false
 [submodule "shunyata"]
 	path = shunyata
 	url = https://github.com/emptyfield-ds/shunyata
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/malcolmbarrett/testthat
-	branch = snapshot_file_path
-	registered = false
